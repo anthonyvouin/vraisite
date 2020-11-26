@@ -1,0 +1,99 @@
+/**
+ * Feuille de style personnalisée
+ ============================================ */
+ 
+ .btn-primary {
+    background:#223A59;
+    color: #fff;
+}
+.btn-primary:hover{
+    background:#D9C5B4;;
+    color: white;
+
+}
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: none;
+    background:#D9C5B4;
+}
+    
+.site-footer {
+    background:#D9C5B4;
+    padding: 100px ;
+}
+
+.btn-secondary {
+    background: #223A59;
+    color: #fff;
+}
+
+.site-counter {
+    padding: 85px 0;
+    color: #fff;
+    background: #223A59;
+}
+
+h6 {
+    font-size: 60px;
+    font-weight: 300;
+    color:#223A59;
+}
+.site-contact-title span {
+    color: #D9C5B4;
+}
+ h1{
+     color:#223A59;
+ }
+
+ .site-hero-content h1 {
+    margin-bottom: 75px;
+    color :#ffffff;
+}
+.site-hero-content h2 {
+    margin-bottom: 75px;
+    color:#ffffff; 
+}
+ .nav-link{
+     font-size: 30px;
+ }
+
+ .site-navigation .navbar-brand img {
+    max-width: 180px;
+     left: 90px;
+     position:absolute;
+     top: -13px;
+}
+.form-control {
+   
+    border-color:#D9C5B4;
+}
+
+.site-project-header-content h1 span {
+    color: #D9C5B4;
+}
+
+.site-navigation{
+width: 100%;
+margin-left: 0;
+margin-right: 0;
+height: 70px;
+line-height: 70px;
+background-color: rgba(0, 0, 0, 0);
+position: fixed;
+top: 30PX;
+z-index: 999;
+}
+
+.site-navigation .nav-item .nav-link{
+    color:#D9C5B4;
+  font-family:'roboto';
+}
+    
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.site-project-item-content{
+    top: auto 30px;
+}

@@ -1,0 +1,115 @@
+# baseURL       = "http://example.org/"
+languageCode  = "fr-FR"
+title         = "Roxo | NWS portfolio starter theme"
+theme         = "roxo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Accueil"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "A propos"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Portfolio"
+    url     = "portfolio"
+    weight  = 3
+  [[menu.nav]]
+    name    = ""
+    url     = "blog"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Contact"
+    url     = "contact"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/test4.jpg"
+    heading               = "Anthony Vouin Developper Web"
+    tagline               = ""
+    primary_button        = "See Our Works"
+    primary_button_url    = "portfolio"
+    secondary_button      = "Connect with Us"
+    secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = "Mes travaux récent"
+    subtitle  = "Vous trouverez ci dessous mes travaux récent"
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "Travaillons Ensemble"
+    primary_button      = "Submit Query"
+    primary_button_url  = "contact"
+    secondary_button    = "Not Convinced"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+      address = "22 rue du 19 Mars<br>Grand-Quevilly, 76120"
+      phone   = "06.60.05.38.88"
+      email   = "avouin@normandiewebschool.fr"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "A propos"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Projects"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "contact"
+          url  = "contact"
+        [[params.footer.sitemap.link]]
+          name = ""
+          url  = ""
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Social Media"
+        [[params.footer.social.link]]
+          name = ""
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Github"
+          url  = "https://github.com/anthonyvouin"
+        [[params.footer.social.link]]
+          name = "Linkdin"
+          url  = "https://www.linkedin.com/in/anthony-vouin-b742a91ba/"
+        [[params.footer.social.link]]
+          name = ""
+          url  = "#"
+      # Footer Service
+      [params.footer.service]
+        title       = "We help brands:"
+        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"

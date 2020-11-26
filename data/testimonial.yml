@@ -1,0 +1,23 @@
+enable  : true
+title   : "OPINION FROM REAL PEOPLE"
+subtitle: "What clients says about our services."
+testimonial_item :
+  - thumb : "images/testimonial/robin.jpg"
+    name  : "Robin Baud"
+    company_position: "Futur Game Designer"
+    quote : > 
+            "Une personne qui travaille tout les jour même le week-end, très mature et organisé avec beaucoup de professionnalisme. Toujours de très bon conseil et voulant toujours apprendre, c'est quelqu'un avec qui il est très agréable de réaliser ses projet." 
+
+  - thumb : "images/testimonial/laurine.jpg"
+    name  : "Laurine d'Oliveira-Martin"
+    company_position: "Etudiante à la Normandie Web Scool"
+    quote : > 
+            "Anthony est un garçon totalement à l'aise dans son domaine. Déterminé et ambitieux, je suis contente d'avoir un camarade aussi passionné prêt à partager ses compétences au profit des autres.                                                           " 
+
+  - thumb : "images/testimonial/Ferdinand.jpg"
+    name  : "Ferdinand brossard"
+    company_position: ."Etudiant à la Normandie Web School""
+    quote : > 
+            "Anthony est un quelqu'un qui progresse très vite dans son domaine, c'est quelqu'un de très impliqué dans son travail. Un camarade en or qui n'hésite pas à aider les autres.                                                                             " 
+
+  

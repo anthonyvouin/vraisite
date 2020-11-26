@@ -1,0 +1,14 @@
+enable : true
+heading : "THE PROOF IS IN THE PUDDING!"
+counter_item: 
+  - title: "Client content"
+    number: "1M"
+
+  - title: "Projet terminé"
+    number: "1M"
+
+  - title: "Tasses de café"
+    number: "1M"
+
+  - title: "Site terminé"
+    number: "1M"

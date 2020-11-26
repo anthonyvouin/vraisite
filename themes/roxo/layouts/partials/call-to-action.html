@@ -1,0 +1,20 @@
+{{ with .Site.Params.call_to_action }}
+  {{ if .enable }}
+  <section class="site-cta" style='background-image: url("{{ .background_image | absURL }}");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">{{ .title }}</h1>
+          <ul class="site-cta-buttons">
+            <li>
+              
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
