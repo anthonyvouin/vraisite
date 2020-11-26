@@ -2,7 +2,7 @@
 title: "Mon projet"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/cartevisiteok.png"
+image: "images/projects/Capturea.PNG"
 category: ["Réalisation de mon identité visuelle"]
 project_images: ["images/projects/cartevisiteok.png", "images/projects/cartevisiteok2.png","images/projects/cv.jpg","images/projects/palette.jpg"]
 ---
