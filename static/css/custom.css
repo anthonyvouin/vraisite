@@ -93,8 +93,9 @@ z-index: 999;
 img {
     vertical-align: middle;
     border-style: none;
-}
+    }
 
 .site-project-item-content{
     top: auto 30px;
 }
+
