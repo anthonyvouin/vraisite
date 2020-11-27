@@ -51,7 +51,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/test4.jpg"
-    heading               = "Anthony Vouin Developper Web"
+    heading               = "Anthony Vouin"
+    heading2              = "Développeur Web"   
     tagline               = ""
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
