@@ -61,7 +61,7 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "Mes travaux récent"
+    title     = "Mes travaux récents"
     subtitle  = "Vous trouverez ci dessous mes travaux récent"
 
   [params.call_to_action]
