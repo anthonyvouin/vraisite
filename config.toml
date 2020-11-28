@@ -90,7 +90,7 @@ summarylength = 25
           name = "Projets"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "contact"
+          name = "Contact"
           url  = "contact"
         [[params.footer.sitemap.link]]
           name = ""
@@ -113,4 +113,4 @@ summarylength = 25
       # Footer Service
       [params.footer.service]
         title       = "We help brands:"
-        description = "developper des solutions<br>produire un contenu précieux<br>créer une nouvelle expérience"
+        description = "Developper des solutions<br>Produire un contenu précieux<br>Créer une nouvelle expérience"
