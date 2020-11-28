@@ -5,6 +5,7 @@ type: portfolio
 image: "images/projects/moodboard.jpg"
 category: ["Realisation d'un jeux de société ainsi qu'une campagne"]
 project_images: ["images/projects/stopin.png", "images/projects/moodboard.jpg"]
+---
  
 
 Bonjour dans cette catégorie vous trouverez les informations sur les jeux de société sur lesquels je suis en train de travailler en collaboration avec d'autres étudiants.
