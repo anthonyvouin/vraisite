@@ -9,6 +9,6 @@ project_images: ["images/projects/Capture1.PNG", "images/projects/Capturea.PNG",
 
 Bonjour dans cette catégorie vous trouverez les informations sur mon image personnelle.
 
-J'ai créé une image personnelle la plus professionnelle possible en respectant ma carte graphique et les couleurs présentent dans cette dernière
+J'ai créé une image personnelle la plus professionnelle possible en respectant ma carte graphique et les couleurs présentes dans cette dernière.
 
-Vous trouvez également plus bas dont cette page quelques informations sur mon image, carte de visite, cv, couleurs utilisées
+Vous trouvez également plus bas dont cette page quelques informations sur mon image, carte de visite, cv, couleurs utilisées.

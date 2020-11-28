@@ -14,7 +14,7 @@ Bonjour dans cette catégorie vous trouverez les informations sur les jeux de so
 
 Nous avons créé un jeu de cartes nommé  "STOPIN'" à travers vous pourrez venir découvrir la ville de Rouen. Un jeu éducatif et drôle qui plaira a tout public.
 
-Vous trouvez également plus bas dont cette page l'avancez du projet comme le logo, moodboard, ainsi que d'autre information
+Vous trouvez également plus bas dont cette page l'avancée du projet comme le logo, moodboard, ainsi que d'autres informations.
 
  
    
