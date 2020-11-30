@@ -105,7 +105,7 @@ summarylength = 25
           name = "Github"
           url  = "https://github.com/anthonyvouin"
         [[params.footer.social.link]]
-          name = "Linkdin"
+          name = "Linkedin"
           url  = "https://www.linkedin.com/in/anthony-vouin-b742a91ba/"
         [[params.footer.social.link]]
           name = ""
